@@ -47,7 +47,7 @@
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
     "nib": "^1.1.2",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "postcss": "^6.0.13",
     "postcss-cssnext": "^3.0.2",
     "postcss-loader": "^2.0.8",
